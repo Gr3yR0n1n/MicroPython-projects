@@ -1,7 +1,6 @@
 # MicroPython-projects
 
-[![MicroPython](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/1200px-Micropython-logo.svg.png =350px)](#)
-
+![MicroPython](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/1200px-Micropython-logo.svg.png =350px)
 Here you will find a collection of projects created exclusively in python language (MicroPython)
 
 ## matrix-rain
